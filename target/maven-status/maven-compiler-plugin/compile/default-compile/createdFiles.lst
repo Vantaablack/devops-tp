@@ -1,0 +1,6 @@
+fr/boutique/servlet/PanierServlet.class
+fr/boutique/servlet/LignePanier.class
+fr/boutique/servlet/LogoutServlet.class
+fr/boutique/servlet/Article.class
+fr/boutique/servlet/CatalogueServlet.class
+fr/boutique/servlet/LoginServlet.class
