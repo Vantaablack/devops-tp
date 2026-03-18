@@ -21,6 +21,7 @@ spec:
       containers:
         - name: boutique
           image: ghcr.io/vantaablack/devops-tp:latest # ← à adapter
+          imagePullPolicy : Always
           ports:
             - containerPort: 8080
 
